@@ -25,4 +25,4 @@ go.work.sum
 .env
 
 # AoC input files
-input.txt
+input*.txt
