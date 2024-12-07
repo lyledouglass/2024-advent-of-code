@@ -65,7 +65,7 @@ func partTwo() int {
 	list1 := []int{}
 	list2 := []int{}
 
-	file, err := os.Open("list.txt")
+	file, err := os.Open("input.txt")
 	if err != nil {
 		panic(err)
 	}
